@@ -4,6 +4,8 @@ Skills and automations for the work you already do twice a week. New project, de
 
 A skill is what you run. An automation is what runs without you. This repo is both.
 
+I add new skills here every day — the ones that actually automate day-to-day work, not demos.
+
 ## What's here
 
 | | Skill | Automation |
